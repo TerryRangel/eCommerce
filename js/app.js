@@ -30,7 +30,6 @@ const backdropImg = document.querySelector('.backdrop-img');
 const productName = document.querySelector('.product-name');
 const productDes = document.querySelector('.product-des');
 
-// ⚠️ Estás usando estas clases en las animaciones, así que necesitas seleccionarlas
 const smImgContainer = document.querySelector('.sm-product-img-container');
 const productImgContainer = document.querySelector('.product-img-container');
 const backdropImgContainer = document.querySelector('.right-side'); // contenedor de fondo
